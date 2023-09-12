@@ -1,10 +1,7 @@
-import dash_html_components as app
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
 from dash import Dash, html, dcc, callback, Output, Input,dash_table,State
 import plotly.express as px
 import pandas as pd
+import dash_bootstrap_components as dbc
 import dash_bootstrap_components as dbc
 from pages import dashboard,geography,question,data_helper
 
