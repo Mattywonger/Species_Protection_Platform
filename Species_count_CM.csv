@@ -1,0 +1,13 @@
+Category,Status,count
+Amphibians,LC,197
+Birds,LC,2007
+Mammals,LC,5
+Reptiles,LC,38
+Amphibians,VU,15
+Birds,VU,39
+Mammals,VU,48
+Reptiles,VU,8
+Amphibians,NT,11
+Birds,NT,46
+Mammals,NT,37
+Reptiles,NT,4

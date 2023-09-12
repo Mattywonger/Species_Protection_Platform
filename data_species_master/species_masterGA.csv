@@ -1,0 +1,870 @@
+taxonid,scientific_name,subspecies,rank,subpopulation,category,Common Name,Species Class,Threat Class
+550,Aepyceros melampus,,,,LC,Impala,MAMMALIA,LC
+1550,Anomalurus derbianus,,,,LC,Lord Derby's Scaly-tailed Squirrel,MAMMALIA,LC
+1553,Anomalurus pusillus,,,,LC,Dwarf Scaly-tailed Squirrel,MAMMALIA,LC
+1794,Aonyx congicus,,,,NT,Congo Clawless Otter,MAMMALIA,NT
+2053,Arctocebus aureus,,,,LC,Golden Angwantibo,MAMMALIA,LC
+2060,Arctocephalus pusillus,,,,LC,Afro-Australian Fur Seal,MAMMALIA,LC
+2066,Arctocephalus pusillus ssp. pusillus,pusillus,ssp.,,LC,Cape Fur Seal,MAMMALIA,LC
+2353,Atherurus africanus,,,,LC,African Brush-tailed Porcupine,MAMMALIA,LC
+2476,Balaenoptera edeni,,,,LC,Bryde's Whale,MAMMALIA,LC
+3753,Canis adustus,,,,LC,Side-striped Jackal,MAMMALIA,LC
+4138,Cephalophus callipygus,,,,LC,Peters' Duiker,MAMMALIA,LC
+4139,Cephalophus dorsalis,,,,NT,Bay Duiker,MAMMALIA,NT
+4141,Cephalophus leucogaster,,,,NT,White-bellied Duiker,MAMMALIA,NT
+4143,Philantomba monticola,,,,LC,Blue Duiker,MAMMALIA,LC
+4146,Cephalophus nigrifrons,,,,LC,Black-fronted Duiker,MAMMALIA,LC
+4148,Cephalophus ogilbyi,,,,LC,Ogilby's Duiker,MAMMALIA,LC
+4150,Cephalophus silvicultor,,,,NT,Yellow-backed Duiker,MAMMALIA,NT
+4155,Cephalophus ogilbyi ssp. crusalbum,crusalbum,ssp.,,NT,White-legged Duiker,MAMMALIA,NT
+4201,Cercocebus torquatus,,,,EN,Red-capped Mangabey,MAMMALIA,EN
+4214,Cercopithecus cephus,,,,LC,Moustached Monkey,MAMMALIA,LC
+4223,Cercopithecus neglectus,,,,LC,De Brazza’s Monkey,MAMMALIA,LC
+4224,Cercopithecus nictitans,,,,NT,Putty-nosed Monkey,MAMMALIA,NT
+4230,Allochrocebus solatus,,,,NT,Sun-tailed Monkey,MAMMALIA,NT
+4305,Chaerephon aloysiisabaudiae,,,,LC,Duke of Abruzzi's Wrinkle-lipped Bat,MAMMALIA,LC
+5143,Colobus guereza,,,,LC,Guereza,MAMMALIA,LC
+5145,Colobus satanas,,,,VU,Black Colobus,MAMMALIA,VU
+5660,Mecistops cataphractus,,,,CR,Slender-snouted Crocodile,REPTILIA,CR
+5674,Crocuta crocuta,,,,LC,Spotted Hyaena,MAMMALIA,LC
+6336,Delphinus delphis,,,,LC,Short-beaked Common Dolphin,MAMMALIA,LC
+6337,Delphinus capensis,,,,DD,Long-beaked Common Dolphin,MAMMALIA,DD
+6410,Dendrohyrax dorsalis,,,,LC,Western Tree Hyrax,MAMMALIA,LC
+6494,Dermochelys coriacea,,,,VU,Leatherback,REPTILIA,VU
+7084,Eidolon helvum,,,,NT,African Straw-coloured Fruit-bat,MAMMALIA,NT
+7899,Epixerus ebii,,,,LC,Western Palm Squirrel,MAMMALIA,LC
+7906,Epomophorus wahlbergi,,,,LC,Wahlberg's Epauletted Fruit Bat,MAMMALIA,LC
+8265,Euoticus elegantulus,,,,LC,Southern Needle-clawed Galago,MAMMALIA,LC
+8551,Feresa attenuata,,,,LC,Pygmy Killer Whale,MAMMALIA,LC
+9249,Globicephala macrorhynchus,,,,LC,Short-finned Pilot Whale,MAMMALIA,LC
+9404,Gorilla gorilla,,,,CR,Western Gorilla,MAMMALIA,CR
+9406,Gorilla gorilla ssp. gorilla,gorilla,ssp.,,CR,Western Lowland Gorilla,MAMMALIA,CR
+9461,Grampus griseus,,,,LC,Risso's Dolphin,MAMMALIA,LC
+9493,Graphiurus surdus,,,,DD,Silent Dormouse,MAMMALIA,DD
+10103,Hippopotamus amphibius,,,,VU,Hippopotamus,MAMMALIA,VU
+10112,Hipposideros beatus,,,,LC,Benito Roundleaf Bat,MAMMALIA,LC
+10115,Hipposideros caffer,,,,LC,Sundevall's Roundleaf Bat,MAMMALIA,LC
+10126,Hipposideros cyclops,,,,LC,Cyclops Roundleaf Bat,MAMMALIA,LC
+10134,Hipposideros fuliginosus,,,,LC,Sooty Roundleaf Bat,MAMMALIA,LC
+10157,Hipposideros ruber,,,,LC,Noack's Roundleaf Bat,MAMMALIA,LC
+10341,Hyemoschus aquaticus,,,,LC,Water Chevrotain,MAMMALIA,LC
+10592,Hylomyscus parvus,,,,LC,Little Wood Mouse,MAMMALIA,LC
+10593,Hylomyscus aeta,,,,LC,Beaded Wood Mouse,MAMMALIA,LC
+10734,Hypsignathus monstrosus,,,,LC,Hammer-headed Fruit Bat,MAMMALIA,LC
+10794,Idiurus macrotis,,,,LC,Long-eared Scaly-tailed Flying Squirrel,MAMMALIA,LC
+10977,Kerivoula lanosa,,,,LC,Lesser Woolly Bat,MAMMALIA,LC
+11003,Kinixys homeana,,,,VU,Home's Hinge-back Tortoise,REPTILIA,VU
+11035,Kobus ellipsiprymnus,,,,LC,Waterbuck,MAMMALIA,LC
+11040,Kobus ellipsiprymnus ssp. defassa,defassa,ssp.,,NT,Defassa Waterbuck,MAMMALIA,NT
+11047,Kogia breviceps,,,,DD,Pygmy Sperm Whale,MAMMALIA,DD
+11048,Kogia sima,,,,DD,Dwarf Sperm Whale,MAMMALIA,DD
+11378,Lavia frons,,,,LC,Yellow-winged Bat,MAMMALIA,LC
+11534,Lepidochelys olivacea,,,,VU,Olive Ridley,REPTILIA,VU
+11638,Leptailurus serval,,,,LC,Serval,MAMMALIA,LC
+12309,Lophocebus albigena,,,,VU,Grey-cheeked Mangabey,MAMMALIA,VU
+12356,Lophuromys sikapusi,,,,LC,Rusty-bellied Brush-furred Rat,MAMMALIA,LC
+12392,Loxodonta africana,,,,VU,African Elephant,MAMMALIA,VU
+12420,Hydrictis maculicollis,,,,NT,Spotted-necked Otter,MAMMALIA,NT
+12436,Lycaon pictus,,,,EN,African Wild Dog,MAMMALIA,EN
+12704,Malacomys longipes,,,,LC,Big-eared Swamp Rat,MAMMALIA,LC
+12754,Mandrillus sphinx,,,,VU,Mandrill,MAMMALIA,VU
+12762,Smutsia gigantea,,,,EN,Giant Ground Pangolin,MAMMALIA,EN
+12766,Phataginus tetradactyla,,,,VU,Black-bellied Pangolin,MAMMALIA,VU
+12767,Phataginus tricuspis,,,,EN,White-bellied Pangolin,MAMMALIA,EN
+13006,Megaptera novaeangliae,,,,LC,Humpback Whale,MAMMALIA,LC
+13402,Micropteropus pusillus,,,,LC,Peter's Dwarf Epauletted Fruit Bat,MAMMALIA,LC
+13565,Miniopterus inflatus,,,,LC,Greater Long-fingered Bat,MAMMALIA,LC
+13837,Mops brachypterus,,,,LC,Sierra Leone Mops Bat,MAMMALIA,LC
+13843,Mops nanulus,,,,LC,Dwarf Mops Bat,MAMMALIA,LC
+13849,Mops thersites,,,,LC,Railer Bat,MAMMALIA,LC
+14103,Myopterus whitleyi,,,,LC,Bini Free-tailed Bat,MAMMALIA,LC
+14148,Myotis bocagii,,,,LC,Bocage's Mouse-eared Bat,MAMMALIA,LC
+14603,Neotragus batesi,,,,LC,Bates' Pygmy Antelope,MAMMALIA,LC
+14926,Nycteris arge,,,,LC,Bate's Slit-faced Bat,MAMMALIA,LC
+14931,Nycteris intermedia,,,,LC,Intermediate Slit-faced Bat,MAMMALIA,LC
+15421,Orcinus orca,,,,DD,Killer Whale,MAMMALIA,DD
+15635,Osteolaemus tetraspis,,,,VU,African Dwarf Crocodile,REPTILIA,VU
+15933,Pan troglodytes,,,,EN,Chimpanzee,MAMMALIA,EN
+15936,Pan troglodytes ssp. troglodytes,troglodytes,ssp.,,EN,Central Chimpanzee,MAMMALIA,EN
+15951,Panthera leo,,,,VU,Lion,MAMMALIA,VU
+15954,Panthera pardus,,,,VU,Leopard,MAMMALIA,VU
+16211,Paraxerus poensis,,,,LC,Green Bush Squirrel,MAMMALIA,LC
+16564,Peponocephala electra,,,,LC,Melon-headed Whale,MAMMALIA,LC
+18095,Potamogale velox,,,,LC,Giant Otter Shrew,MAMMALIA,LC
+18306,Caracal aurata,,,,VU,African Golden Cat,MAMMALIA,VU
+18596,Pseudorca crassidens,,,,NT,False Killer Whale,MAMMALIA,NT
+19390,Redunca arundinum,,,,LC,Southern Reedbuck,MAMMALIA,LC
+19567,Rhinolophus silvestris,,,,DD,Forest Horseshoe Bat,MAMMALIA,DD
+19801,Saccolaimus peli,,,,LC,Pel's Pouched Bat,MAMMALIA,LC
+20425,Sousa teuszii,,,,CR,Atlantic Humpback Dolphin,MAMMALIA,CR
+20729,Stenella attenuata,,,,LC,Pantropical Spotted Dolphin,MAMMALIA,LC
+20730,Stenella clymene,,,,LC,Clymene Dolphin,MAMMALIA,LC
+20731,Stenella coeruleoalba,,,,LC,Striped Dolphin,MAMMALIA,LC
+20732,Stenella frontalis,,,,LC,Atlantic Spotted Dolphin,MAMMALIA,LC
+20738,Steno bredanensis,,,,LC,Rough-toothed Dolphin,MAMMALIA,LC
+21203,Sylvicapra grimmia,,,,LC,Common Duiker,MAMMALIA,LC
+21251,Syncerus caffer,,,,NT,African Buffalo,MAMMALIA,NT
+21460,Taphozous mauritianus,,,,LC,Mauritian Tomb Bat,MAMMALIA,LC
+22047,Tragelaphus eurycerus,,,,NT,Bongo,MAMMALIA,NT
+22050,Tragelaphus spekii,,,,LC,Sitatunga,MAMMALIA,LC
+22051,Tragelaphus scriptus,,,,LC,Bushbuck,MAMMALIA,LC
+22058,Tragelaphus eurycerus ssp. eurycerus,eurycerus,ssp.,,NT,Lowland Bongo,MAMMALIA,NT
+22104,Trichechus senegalensis,,,,VU,African Manatee,MAMMALIA,VU
+22563,Tursiops truncatus,,,,LC,Common Bottlenose Dolphin,MAMMALIA,LC
+23211,Ziphius cavirostris,,,,LC,Cuvier's Beaked Whale,MAMMALIA,LC
+29730,Rousettus aegyptiacus,,,,LC,Egyptian Fruit Bat,MAMMALIA,LC
+40597,Huetia leucorhina,,,,DD,Congo Golden Mole,MAMMALIA,DD
+40649,Galagoides demidoff,,,,LC,Demidoff's Dwarf Galago,MAMMALIA,LC
+40653,Galagoides thomasi,,,,LC,Thomas's Dwarf Galago,MAMMALIA,LC
+41348,Crocidura olivieri,,,,LC,Olivier's Shrew,MAMMALIA,LC
+41504,Orycteropus afer,,,,LC,Aardvark,MAMMALIA,LC
+41570,Miopithecus ogouensis,,,,NT,Northern Talapoin Monkey,MAMMALIA,NT
+41589,Nandinia binotata,,,,LC,African Palm Civet,MAMMALIA,LC
+41590,Atilax paludinosus,,,,LC,Marsh Mongoose,MAMMALIA,LC
+41592,Bdeogale nigripes,,,,LC,Black-legged Mongoose,MAMMALIA,LC
+41596,Crossarchus platycephalus,,,,LC,Flat-headed Cusimanse,MAMMALIA,LC
+41606,Herpestes sanguineus,,,,LC,Common Slender Mongoose,MAMMALIA,LC
+41613,Herpestes ichneumon,,,,LC,Egyptian Mongoose,MAMMALIA,LC
+41615,Herpestes naso,,,,LC,Long-nosed Mongoose,MAMMALIA,LC
+41621,Mungos mungo,,,,LC,Banded Mongoose,MAMMALIA,LC
+41629,Mellivora capensis,,,,LC,Honey Badger,MAMMALIA,LC
+41695,Civettictis civetta,,,,LC,African Civet,MAMMALIA,LC
+41699,Genetta maculata,,,,LC,Large-spotted Genet,MAMMALIA,LC
+41700,Genetta servalina,,,,LC,Servaline Genet,MAMMALIA,LC
+41704,Poiana richardsonii,,,,LC,Central African Oyan,MAMMALIA,LC
+41755,Physeter macrocephalus,,,,VU,Sperm Whale,MAMMALIA,VU
+41768,Phacochoerus africanus,,,,LC,Common Warthog,MAMMALIA,LC
+41769,Hylochoerus meinertzhageni,,,,LC,Forest Hog,MAMMALIA,LC
+41771,Potamochoerus porcus,,,,LC,Red River Hog,MAMMALIA,LC
+44687,Hipposideros gigas,,,,LC,Giant Leaf-nosed Bat,MAMMALIA,LC
+44857,Anomalurus beecrofti,,,,LC,Beecroft's Scaly-tailed Squirrel,MAMMALIA,LC
+44917,Neoromicia brunnea,,,,NT,Dark-brown Serotine,MAMMALIA,NT
+44918,Neoromicia capensis,,,,LC,Cape Bat,MAMMALIA,LC
+44923,Neoromicia nana,,,,LC,Banana Pipistrelle Bat,MAMMALIA,LC
+44926,Neoromicia tenuipinnis,,,,LC,Slenderwinged Pipistrelle Bat,MAMMALIA,LC
+45050,Sylvisorex konganensis,,,,DD,Kongana Shrew,MAMMALIA,DD
+54391,Arthroleptis variabilis,,,,LC,Buea Screeching Frog,AMPHIBIA,LC
+54415,Astylosternus batesi,,,,LC,Benito River Night Frog,AMPHIBIA,LC
+54442,Scotobleps gabonicus,,,,LC,Gaboon Forest Frog,AMPHIBIA,LC
+54443,Trichobatrachus robustus,,,,LC,Hairy Frog,AMPHIBIA,LC
+54600,Sclerophrys camerunensis,,,,LC,Oban Toad,AMPHIBIA,LC
+54653,Sclerophrys gracilipes,,,,LC,French Congo Toad,AMPHIBIA,LC
+54688,Sclerophrys latifrons,,,,LC,High Tropical Forest Toad,AMPHIBIA,LC
+55284,Hemisus perreti,,,,LC,Perret’s Shovelnose Frog,AMPHIBIA,LC
+56055,Acanthixalus spinosus,,,,LC,African Wart Frog,AMPHIBIA,LC
+56092,Hyperolius koehleri,,,,LC,Koehler's Green Frog,AMPHIBIA,LC
+56141,Hyperolius guttulatus,,,,LC,Dotted Reed Frog,AMPHIBIA,LC
+56216,Hyperolius tuberculatus,,,,LC,Rainforest Reed Frog,AMPHIBIA,LC
+56280,Leptopelis rufus,,,,LC,Red Treefrog,AMPHIBIA,LC
+56295,Phlyctimantis leonardi,,,,LC,Olive Striped Frog,AMPHIBIA,LC
+58074,Phrynobatrachus africanus,,,,LC,African Swamp Frog,AMPHIBIA,LC
+58081,Petropedetes newtoni,,,,LC,Newton's Water Frog,AMPHIBIA,LC
+58082,Petropedetes palmipes,,,,VU,Efulen Water Frog,AMPHIBIA,VU
+58095,Phrynobatrachus auritus,,,,LC,Eared River Frog,AMPHIBIA,LC
+58174,Xenopus laevis,,,,LC,African Clawed Frog,AMPHIBIA,LC
+58179,Xenopus pygmaeus,,,,LC,Bouchia Clawed Frog,AMPHIBIA,LC
+58193,Amnirana amnicola,,,,LC,Ilanga Frog,AMPHIBIA,LC
+58252,Conraua crassipes,,,,LC,Abo Slippery Frog,AMPHIBIA,LC
+58299,Hoplobatrachus occipitalis,,,,LC,African Groove-crowned Frog,AMPHIBIA,LC
+58489,Ptychadena aequiplicata,,,,LC,Victoria Grassland Frog,AMPHIBIA,LC
+58518,Ptychadena perreti,,,,LC,Perret's Grassland Frog,AMPHIBIA,LC
+58529,Ptychadena taenioscelis,,,,LC,Dwarf Grass Frog,AMPHIBIA,LC
+58800,Chiromantis rufescens,,,,LC,African Foam-nest Treefrog,AMPHIBIA,LC
+59557,Geotrypetes seraphini,,,,LC,Gaboon Caecilian,AMPHIBIA,LC
+59565,Herpele squalostoma,,,,LC,Congo Caecilian,AMPHIBIA,LC
+62256,Trionyx triunguis,,,,VU,African Softshell Turtle,REPTILIA,VU
+136214,Sciurocheirus gabonensis,,,,LC,Gabon Squirrel Galago,MAMMALIA,LC
+136584,Homo sapiens,,,,LC,Human,MAMMALIA,LC
+136615,Cercocebus agilis,,,,LC,Agile Mangabey,MAMMALIA,LC
+136852,Perodicticus edwardsi,,,,LC,Milne-Edwards's Potto,MAMMALIA,LC
+136891,Colobus guereza ssp. occidentalis,occidentalis,ssp.,,LC,Western Guereza,MAMMALIA,LC
+136940,Cercopithecus pogonias ssp. nigripes,nigripes,ssp.,,NT,Black-footed Crowned Monkey,MAMMALIA,NT
+136944,Aepyceros melampus ssp. melampus,melampus,ssp.,,LC,Common Impala,MAMMALIA,LC
+157273,Chamaeleo africanus,,,,LC,Basilisk Chameleon,REPTILIA,LC
+163440,Pelusios niger,,,,NT,West African Black Mud Turtle,REPTILIA,NT
+163448,Cycloderma aubryi,,,,VU,Aubry's Flapshell Turtle,REPTILIA,VU
+172579,Trioceros oweni,,,,LC,Owen's Three-horned Chameleon,REPTILIA,LC
+176307,Trioceros chapini,,,,LC,Chapin's Chameleon,REPTILIA,LC
+176308,Chamaeleo dilepis,,,,LC,Common African Flap-necked Chameleon,REPTILIA,LC
+176313,Trioceros cristatus,,,,LC,Sail Backed Chameleon,REPTILIA,LC
+176322,Rhampholeon spectrum,,,,LC,Western Pygmy Chameleon,REPTILIA,LC
+176779,Dasypeltis fasciata,,,,LC,Western Forest Egg Eater,REPTILIA,LC
+176866,Natriciteres olivacea,,,,LC,Olive Marsh Snake,REPTILIA,LC
+22678736,Peliperdix coqui,,,,LC,Coqui Francolin,AVES,LC
+22678748,Peliperdix lathami,,,,LC,Forest Francolin,AVES,LC
+22678760,Scleroptila finschi,,,,LC,Finsch's Francolin,AVES,LC
+22678839,Pternistis squamatus,,,,LC,Scaly Francolin,AVES,LC
+22678855,Pternistis afer,,,,LC,Red-necked Francolin,AVES,LC
+22678961,Coturnix delegorguei,,,,LC,Harlequin Quail,AVES,LC
+22678971,Synoicus adansonii,,,,LC,African Blue Quail,AVES,LC
+22679551,Agelastes niger,,,,LC,Black Guineafowl,AVES,LC
+22679555,Numida meleagris,,,,LC,Helmeted Guineafowl,AVES,LC
+22679560,Guttera plumifera,,,,LC,Plumed Guineafowl,AVES,LC
+22679746,Dendrocygna bicolor,,,,LC,Fulvous Whistling-duck,AVES,LC
+22679763,Dendrocygna viduata,,,,LC,White-faced Whistling-duck,AVES,LC
+22679993,Alopochen aegyptiaca,,,,LC,Egyptian Goose,AVES,LC
+22680057,Plectropterus gambensis,,,,LC,Spur-winged Goose,AVES,LC
+22680070,Pteronetta hartlaubii,,,,LC,Hartlaub's Duck,AVES,LC
+22680095,Nettapus auritus,,,,LC,African Pygmy-goose,AVES,LC
+22680170,Anas sparsa,,,,LC,African Black Duck,AVES,LC
+22680301,Anas acuta,,,,LC,Northern Pintail,AVES,LC
+22680313,Spatula querquedula,,,,LC,Garganey,AVES,LC
+22680500,Turnix sylvaticus,,,,LC,Common Buttonquail,AVES,LC
+22680608,Indicator maculatus,,,,LC,Spotted Honeyguide,AVES,LC
+22680616,Indicator indicator,,,,LC,Greater Honeyguide,AVES,LC
+22680623,Indicator minor,,,,LC,Lesser Honeyguide,AVES,LC
+22680634,Indicator willcocksi,,,,LC,Willcocks's Honeyguide,AVES,LC
+22680638,Indicator exilis,,,,LC,Least Honeyguide,AVES,LC
+22680655,Melichneutes robustus,,,,LC,Lyre-tailed Honeyguide,AVES,LC
+22680663,Melignomon zenkeri,,,,LC,Zenker's Honeyguide,AVES,LC
+22680667,Prodotiscus insignis,,,,LC,Cassin's Honeybird,AVES,LC
+22680689,Jynx ruficollis,,,,LC,Rufous-necked Wryneck,AVES,LC
+22680784,Verreauxia africana,,,,LC,African Piculet,AVES,LC
+22680914,Campethera maculosa,,,,LC,Little Green Woodpecker,AVES,LC
+22680937,Campethera nivosa,,,,LC,Buff-spotted Woodpecker,AVES,LC
+22680941,Campethera caroli,,,,LC,Brown-eared Woodpecker,AVES,LC
+22680963,Dendropicos fuscescens,,,,LC,Cardinal Woodpecker,AVES,LC
+22680996,Dendropicos xantholophus,,,,LC,Yellow-crested Woodpecker,AVES,LC
+22681699,Gymnobucco peli,,,,LC,Bristle-nosed Barbet,AVES,LC
+22681736,Pogoniulus scolopaceus,,,,LC,Speckled Tinkerbird,AVES,LC
+22681761,Pogoniulus atroflavus,,,,LC,Red-rumped Tinkerbird,AVES,LC
+22681765,Pogoniulus subsulphureus,,,,LC,Yellow-throated Tinkerbird,AVES,LC
+22681769,Pogoniulus bilineatus,,,,LC,Yellow-rumped Tinkerbird,AVES,LC
+22681782,Buccanodon duchaillui,,,,LC,Yellow-spotted Barbet,AVES,LC
+22681786,Tricholaema hirsuta,,,,LC,Hairy-breasted Barbet,AVES,LC
+22681861,Pogonornis bidentatus,,,,LC,Double-toothed Barbet,AVES,LC
+22682363,Lophoceros camurus,,,,LC,Dwarf Hornbill,AVES,LC
+22682577,Bycanistes subcylindricus,,,,LC,Grey-cheeked Hornbill,AVES,LC
+22682609,Bycanistes albotibialis,,,,LC,White-thighed Hornbill,AVES,LC
+22682621,Ceratogymna atrata,,,,LC,Black-casqued Hornbill,AVES,LC
+22682655,Upupa epops,,,,LC,Common Hoopoe,AVES,LC
+22682698,Rhinopomastus aterrimus,,,,LC,Black Scimitarbill,AVES,LC
+22682715,Apaloderma narina,,,,LC,Narina Trogon,AVES,LC
+22682719,Apaloderma aequatoriale,,,,LC,Bare-cheeked Trogon,AVES,LC
+22682860,Coracias garrulus,,,,LC,European Roller,AVES,LC
+22682912,Eurystomus glaucurus,,,,LC,Broad-billed Roller,AVES,LC
+22682916,Eurystomus gularis,,,,LC,Blue-throated Roller,AVES,LC
+22683037,Alcedo quadribrachys,,,,LC,Shining-blue Kingfisher,AVES,LC
+22683112,Corythornis leucogaster,,,,LC,White-bellied Kingfisher,AVES,LC
+22683165,Ispidina picta,,,,LC,African Pygmy-kingfisher,AVES,LC
+22683174,Ispidina lecontei,,,,LC,African Dwarf-kingfisher,AVES,LC
+22683237,Halcyon badia,,,,LC,Chocolate-backed Kingfisher,AVES,LC
+22683255,Halcyon leucocephala,,,,LC,Grey-headed Kingfisher,AVES,LC
+22683260,Halcyon senegalensis,,,,LC,Woodland Kingfisher,AVES,LC
+22683269,Halcyon malimbica,,,,LC,Blue-breasted Kingfisher,AVES,LC
+22683273,Halcyon albiventris,,,,LC,Brown-hooded Kingfisher,AVES,LC
+22683278,Halcyon chelicuti,,,,LC,Striped Kingfisher,AVES,LC
+22683616,Megaceryle maxima,,,,LC,Giant Kingfisher,AVES,LC
+22683645,Ceryle rudis,,,,LC,Pied Kingfisher,AVES,LC
+22683670,Merops gularis,,,,LC,Black Bee-eater,AVES,LC
+22683684,Merops bullockoides,,,,LC,White-fronted Bee-eater,AVES,LC
+22683688,Merops pusillus,,,,LC,Little Bee-eater,AVES,LC
+22683706,Merops breweri,,,,LC,Black-headed Bee-eater,AVES,LC
+22683714,Merops albicollis,,,,LC,White-throated Bee-eater,AVES,LC
+22683740,Merops persicus,,,,LC,Blue-cheeked Bee-eater,AVES,LC
+22683756,Merops apiaster,,,,LC,European Bee-eater,AVES,LC
+22683764,Merops malimbicus,,,,LC,Rosy Bee-eater,AVES,LC
+22683776,Colius striatus,,,,LC,Speckled Mousebird,AVES,LC
+22683800,Clamator jacobinus,,,,LC,Jacobin Cuckoo,AVES,LC
+22683808,Clamator levaillantii,,,,LC,Levaillant's Cuckoo,AVES,LC
+22683819,Clamator glandarius,,,,LC,Great Spotted Cuckoo,AVES,LC
+22683823,Pachycoccyx audeberti,,,,LC,Thick-billed Cuckoo,AVES,LC
+22683862,Cuculus solitarius,,,,LC,Red-chested Cuckoo,AVES,LC
+22683866,Cuculus clamosus,,,,LC,Black Cuckoo,AVES,LC
+22683873,Cuculus canorus,,,,LC,Common Cuckoo,AVES,LC
+22683879,Cuculus gularis,,,,LC,African Cuckoo,AVES,LC
+22683905,Cercococcyx mechowi,,,,LC,Dusky Long-tailed Cuckoo,AVES,LC
+22683909,Cercococcyx olivinus,,,,LC,Olive Long-tailed Cuckoo,AVES,LC
+22684012,Chrysococcyx flavigularis,,,,LC,Yellow-throated Cuckoo,AVES,LC
+22684017,Chrysococcyx klaas,,,,LC,Klaas's Cuckoo,AVES,LC
+22684021,Chrysococcyx cupreus,,,,LC,African Emerald Cuckoo,AVES,LC
+22684026,Chrysococcyx caprius,,,,LC,Diederik Cuckoo,AVES,LC
+22684249,Centropus grillii,,,,LC,Black Coucal,AVES,LC
+22684260,Centropus leucogaster,,,,LC,Black-throated Coucal,AVES,LC
+22684266,Centropus anselli,,,,LC,Gabon Coucal,AVES,LC
+22684276,Centropus monachus,,,,LC,Blue-headed Coucal,AVES,LC
+22684284,Centropus senegalensis,,,,LC,Senegal Coucal,AVES,LC
+22685291,Poicephalus gulielmi,,,,LC,Red-fronted Parrot,AVES,LC
+22685330,Agapornis pullarius,,,,LC,Red-headed Lovebird,AVES,LC
+22685338,Agapornis swindernianus,,,,LC,Black-collared Lovebird,AVES,LC
+22686652,Telacanthura ussheri,,,,LC,Mottled Spinetail,AVES,LC
+22686656,Telacanthura melanopygia,,,,LC,Black Spinetail,AVES,LC
+22686664,Rhaphidura sabini,,,,LC,Sabine's Spinetail,AVES,LC
+22686668,Neafrapus cassini,,,,LC,Cassin's Spinetail,AVES,LC
+22686774,Tachymarptis melba,,,,LC,Alpine Swift,AVES,LC
+22686788,Tachymarptis aequatorialis,,,,LC,Mottled Swift,AVES,LC
+22686800,Apus apus,,,,LC,Common Swift,AVES,LC
+22686856,Apus affinis,,,,LC,Little Swift,AVES,LC
+22686882,Apus caffer,,,,LC,White-rumped Swift,AVES,LC
+22686887,Apus batesi,,,,LC,Bates's Swift,AVES,LC
+22688312,Tauraco persa,,,,LC,Green Turaco,AVES,LC
+22688350,Tauraco macrorhynchus,,,,LC,Yellow-billed Turaco,AVES,LC
+22688391,Musophaga rossae,,,,LC,Ross's Turaco,AVES,LC
+22688425,Corythaeola cristata,,,,LC,Great Blue Turaco,AVES,LC
+22688504,Tyto alba,,,,LC,Common Barn-owl,AVES,LC
+22688559,Otus icterorhynchus,,,,LC,Sandy Scops-owl,AVES,LC
+22688980,Bubo shelleyi,,,,VU,Shelley's Eagle-owl,AVES,VU
+22688996,Bubo leucostictus,,,,LC,Akun Eagle-owl,AVES,LC
+22689032,Scotopelia peli,,,,LC,Pel's Fishing-owl,AVES,LC
+22689048,Scotopelia bouvieri,,,,LC,Vermiculated Fishing-owl,AVES,LC
+22689166,Strix woodfordii,,,,LC,African Wood-owl,AVES,LC
+22689173,Jubula lettii,,,,DD,Maned Owl,AVES,DD
+22689267,Glaucidium tephronotum,,,,LC,Red-chested Owlet,AVES,LC
+22689271,Glaucidium sjostedti,,,,LC,Sjostedt's Owlet,AVES,LC
+22689535,Asio capensis,,,,LC,Marsh Owl,AVES,LC
+22689871,Veles binotatus,,,,LC,Brown Nightjar,AVES,LC
+22689887,Caprimulgus europaeus,,,,LC,European Nightjar,AVES,LC
+22689972,Caprimulgus natalensis,,,,LC,Swamp Nightjar,AVES,LC
+22689977,Caprimulgus inornatus,,,,LC,Plain Nightjar,AVES,LC
+22689988,Caprimulgus tristigma,,,,LC,Freckled Nightjar,AVES,LC
+22690004,Caprimulgus batesi,,,,LC,Bates's Nightjar,AVES,LC
+22690008,Caprimulgus climacurus,,,,LC,Long-tailed Nightjar,AVES,LC
+22690016,Caprimulgus fossii,,,,LC,Mozambique Nightjar,AVES,LC
+22690021,Caprimulgus longipennis,,,,LC,Standard-winged Nightjar,AVES,LC
+22690025,Caprimulgus vexillarius,,,,LC,Pennant-winged Nightjar,AVES,LC
+22690066,Columba livia,,,,LC,Rock Dove,AVES,LC
+22690127,Columba unicincta,,,,LC,Afep Pigeon,AVES,LC
+22690346,Columba iriditorques,,,,LC,Western Bronze-naped Pigeon,AVES,LC
+22690384,Aplopelia larvata,,,,LC,Lemon Dove,AVES,LC
+22690419,Streptopelia turtur,,,,VU,European Turtle-dove,AVES,VU
+22690445,Spilopelia senegalensis,,,,LC,Laughing Dove,AVES,LC
+22690488,Streptopelia capicola,,,,LC,Ring-necked Dove,AVES,LC
+22690499,Streptopelia semitorquata,,,,LC,Red-eyed Dove,AVES,LC
+22690621,Turtur chalcospilos,,,,LC,Emerald-spotted Wood-dove,AVES,LC
+22690628,Turtur afer,,,,LC,Blue-spotted Wood-dove,AVES,LC
+22690635,Turtur tympanistria,,,,LC,Tambourine Dove,AVES,LC
+22690639,Turtur brehmeri,,,,LC,Blue-headed Wood-dove,AVES,LC
+22690645,Oena capensis,,,,LC,Namaqua Dove,AVES,LC
+22691905,Neotis denhami,,,,NT,Denham's Bustard,AVES,NT
+22691996,Eupodotis senegalensis,,,,LC,White-bellied Bustard,AVES,LC
+22692007,Lissotis melanogaster,,,,LC,Black-bellied Bustard,AVES,LC
+22692177,Podica senegalensis,,,,LC,African Finfoot,AVES,LC
+22692215,Sarothrura pulchra,,,,LC,White-spotted Flufftail,AVES,LC
+22692219,Sarothrura elegans,,,,LC,Buff-spotted Flufftail,AVES,LC
+22692223,Sarothrura rufa,,,,LC,Red-chested Flufftail,AVES,LC
+22692227,Sarothrura lugens,,,,LC,Chestnut-headed Flufftail,AVES,LC
+22692232,Sarothrura boehmi,,,,LC,Streaky-breasted Flufftail,AVES,LC
+22692256,Himantornis haematopus,,,,LC,Nkulengu Rail,AVES,LC
+22692260,Canirallus oculeus,,,,LC,Grey-throated Rail,AVES,LC
+22692498,Rallus caerulescens,,,,LC,African Rail,AVES,LC
+22692539,Crex egregia,,,,LC,African Crake,AVES,LC
+22692543,Crex crex,,,,LC,Corncrake,AVES,LC
+22692643,Zapornia flavirostra,,,,LC,Black Crake,AVES,LC
+22692729,Amaurornis marginalis,,,,LC,Striped Crake,AVES,LC
+22692816,Porphyrio alleni,,,,LC,Allen's Gallinule,AVES,LC
+22692883,Paragallinula angulata,,,,LC,Lesser Moorhen,AVES,LC
+22693093,Gallinago media,,,,NT,Great Snipe,AVES,NT
+22693097,Gallinago gallinago,,,,LC,Common Snipe,AVES,LC
+22693150,Limosa limosa,,,,NT,Black-tailed Godwit,AVES,NT
+22693158,Limosa lapponica,,,,NT,Bar-tailed Godwit,AVES,NT
+22693178,Numenius phaeopus,,,,LC,Whimbrel,AVES,LC
+22693190,Numenius arquata,,,,NT,Eurasian Curlew,AVES,NT
+22693203,Bartramia longicauda,,,,LC,Upland Sandpiper,AVES,LC
+22693211,Tringa totanus,,,,LC,Common Redshank,AVES,LC
+22693216,Tringa stagnatilis,,,,LC,Marsh Sandpiper,AVES,LC
+22693220,Tringa nebularia,,,,LC,Common Greenshank,AVES,LC
+22693243,Tringa ochropus,,,,LC,Green Sandpiper,AVES,LC
+22693247,Tringa glareola,,,,LC,Wood Sandpiper,AVES,LC
+22693251,Xenus cinereus,,,,LC,Terek Sandpiper,AVES,LC
+22693264,Actitis hypoleucos,,,,LC,Common Sandpiper,AVES,LC
+22693336,Arenaria interpres,,,,LC,Ruddy Turnstone,AVES,LC
+22693363,Calidris canutus,,,,NT,Red Knot,AVES,NT
+22693369,Calidris alba,,,,LC,Sanderling,AVES,LC
+22693379,Calidris minuta,,,,LC,Little Stint,AVES,LC
+22693408,Calidris melanotos,,,,LC,Pectoral Sandpiper,AVES,LC
+22693431,Calidris ferruginea,,,,NT,Curlew Sandpiper,AVES,NT
+22693447,Calidris subruficollis,,,,NT,Buff-breasted Sandpiper,AVES,NT
+22693468,Calidris pugnax,,,,LC,Ruff,AVES,LC
+22693528,Actophilornis africanus,,,,LC,African Jacana,AVES,LC
+22693584,Burhinus vermiculatus,,,,LC,Water Thick-knee,AVES,LC
+22693589,Burhinus capensis,,,,LC,Spotted Thick-knee,AVES,LC
+22693712,Recurvirostra avosetta,,,,LC,Pied Avocet,AVES,LC
+22693735,Pluvialis fulva,,,,LC,Pacific Golden Plover,AVES,LC
+22693749,Pluvialis squatarola,,,,LC,Grey Plover,AVES,LC
+22693759,Charadrius hiaticula,,,,LC,Common Ringed Plover,AVES,LC
+22693770,Charadrius dubius,,,,LC,Little Ringed Plover,AVES,LC
+22693793,Charadrius pecuarius,,,,LC,Kittlitz's Plover,AVES,LC
+22693807,Charadrius forbesi,,,,LC,Forbes's Plover,AVES,LC
+22693828,Charadrius marginatus,,,,LC,White-fronted Plover,AVES,LC
+22693868,Charadrius asiaticus,,,,LC,Caspian Plover,AVES,LC
+22693983,Vanellus spinosus,,,,LC,Spur-winged Lapwing,AVES,LC
+22694021,Vanellus albiceps,,,,LC,White-headed Lapwing,AVES,LC
+22694033,Vanellus lugubris,,,,LC,Senegal Lapwing,AVES,LC
+22694095,Rhinoptilus chalcopterus,,,,LC,Bronze-winged Courser,AVES,LC
+22694120,Cursorius temminckii,,,,LC,Temminck's Courser,AVES,LC
+22694127,Glareola pratincola,,,,LC,Collared Pratincole,AVES,LC
+22694136,Glareola nordmanni,,,,NT,Black-winged Pratincole,AVES,NT
+22694144,Glareola nuchalis,,,,LC,Rock Pratincole,AVES,LC
+22694148,Glareola cinerea,,,,LC,Grey Pratincole,AVES,LC
+22694245,Stercorarius parasiticus,,,,LC,Arctic Jaeger,AVES,LC
+22694262,Rynchops flavirostris,,,,NT,African Skimmer,AVES,NT
+22694329,Larus dominicanus,,,,LC,Kelp Gull,AVES,LC
+22694373,Larus fuscus,,,,LC,Lesser Black-backed Gull,AVES,LC
+22694387,Larus cirrocephalus,,,,LC,Grey-headed Gull,AVES,LC
+22694469,Hydrocoloeus minutus,,,,LC,Little Gull,AVES,LC
+22694479,Xema sabini,,,,LC,Sabine's Gull,AVES,LC
+22694524,Hydroprogne caspia,,,,LC,Caspian Tern,AVES,LC
+22694542,Thalasseus maximus,,,,LC,Royal Tern,AVES,LC
+22694591,Thalasseus sandvicensis,,,,LC,Sandwich Tern,AVES,LC
+22694623,Sterna hirundo,,,,LC,Common Tern,AVES,LC
+22694629,Sterna paradisaea,,,,LC,Arctic Tern,AVES,LC
+22694656,Sternula albifrons,,,,LC,Little Tern,AVES,LC
+22694699,Sternula balaenarum,,,,VU,Damara Tern,AVES,VU
+22694740,Onychoprion fuscatus,,,,LC,Sooty Tern,AVES,LC
+22694782,Chlidonias leucopterus,,,,LC,White-winged Tern,AVES,LC
+22694787,Chlidonias niger,,,,LC,Black Tern,AVES,LC
+22694794,Anous stolidus,,,,LC,Brown Noddy,AVES,LC
+22694799,Anous minutus,,,,LC,Black Noddy,AVES,LC
+22694938,Pandion haliaetus,,,,LC,Osprey,AVES,LC
+22694944,Aviceda cuculoides,,,,LC,African Cuckoo-hawk,AVES,LC
+22694989,Pernis apivorus,,,,LC,European Honey-buzzard,AVES,LC
+22695021,Macheiramphus alcinus,,,,LC,Bat Hawk,AVES,LC
+22695028,Elanus caeruleus,,,,LC,Black-winged Kite,AVES,LC
+22695115,Haliaeetus vocifer,,,,LC,African Fish-eagle,AVES,LC
+22695170,Gypohierax angolensis,,,,LC,Palm-nut Vulture,AVES,LC
+22695250,Trigonoceps occipitalis,,,,CR,White-headed Vulture,AVES,CR
+22695289,Terathopius ecaudatus,,,,NT,Bateleur,AVES,NT
+22695330,Dryotriorchis spectabilis,,,,LC,Congo Serpent-eagle,AVES,LC
+22695344,Circus aeruginosus,,,,LC,Western Marsh-harrier,AVES,LC
+22695409,Polyboroides typus,,,,LC,African Harrier-hawk,AVES,LC
+22695421,Kaupifalco monogrammicus,,,,LC,Lizard Buzzard,AVES,LC
+22695425,Melierax metabates,,,,LC,Dark Chanting-goshawk,AVES,LC
+22695445,Micronisus gabar,,,,LC,Gabar Goshawk,AVES,LC
+22695486,Accipiter castanilius,,,,LC,Chestnut-flanked Sparrowhawk,AVES,LC
+22695576,Accipiter erythropus,,,,LC,Red-legged Sparrowhawk,AVES,LC
+22695673,Accipiter melanoleucus,,,,LC,Black Sparrowhawk,AVES,LC
+22695710,Urotriorchis macrourus,,,,LC,Long-tailed Hawk,AVES,LC
+22695978,Buteo auguralis,,,,LC,Red-necked Buzzard,AVES,LC
+22696033,Aquila rapax,,,,VU,Tawny Eagle,AVES,VU
+22696072,Hieraaetus wahlbergi,,,,LC,Wahlberg's Eagle,AVES,LC
+22696103,Hieraaetus ayresii,,,,LC,Ayres's Hawk-eagle,AVES,LC
+22696134,Lophaetus occipitalis,,,,LC,Long-crested Eagle,AVES,LC
+22696138,Aquila africana,,,,LC,Cassin's Hawk-eagle,AVES,LC
+22696201,Stephanoaetus coronatus,,,,NT,Crowned Eagle,AVES,NT
+22696357,Falco naumanni,,,,LC,Lesser Kestrel,AVES,LC
+22696362,Falco tinnunculus,,,,LC,Common Kestrel,AVES,LC
+22696406,Falco ardosiaceus,,,,LC,Grey Kestrel,AVES,LC
+22696432,Falco vespertinus,,,,NT,Red-footed Falcon,AVES,NT
+22696460,Falco subbuteo,,,,LC,Eurasian Hobby,AVES,LC
+22696466,Falco cuvierii,,,,LC,African Hobby,AVES,LC
+22696487,Falco biarmicus,,,,LC,Lanner Falcon,AVES,LC
+22696545,Tachybaptus ruficollis,,,,LC,Little Grebe,AVES,LC
+22696602,Podiceps cristatus,,,,LC,Great Crested Grebe,AVES,LC
+22696637,Phaethon aethereus,,,,LC,Red-billed Tropicbird,AVES,LC
+22696645,Phaethon lepturus,,,,LC,White-tailed Tropicbird,AVES,LC
+22696698,Sula leucogaster,,,,LC,Brown Booby,AVES,LC
+22696705,Anhinga rufa,,,,LC,African Darter,AVES,LC
+22696725,Microcarbo africanus,,,,LC,Long-tailed Cormorant,AVES,LC
+22696926,Egretta ardesiaca,,,,LC,Black Heron,AVES,LC
+22696993,Ardea cinerea,,,,LC,Grey Heron,AVES,LC
+22697008,Ardea melanocephala,,,,LC,Black-headed Heron,AVES,LC
+22697017,Ardea goliath,,,,LC,Goliath Heron,AVES,LC
+22697031,Ardea purpurea,,,,LC,Purple Heron,AVES,LC
+22697043,Ardea alba,,,,LC,Great White Egret,AVES,LC
+22697109,Bubulcus ibis,,,,LC,Cattle Egret,AVES,LC
+22697123,Ardeola ralloides,,,,LC,Squacco Heron,AVES,LC
+22697211,Nycticorax nycticorax,,,,LC,Black-crowned Night-heron,AVES,LC
+22697226,Calherodius leuconotus,,,,LC,White-backed Night-heron,AVES,LC
+22697277,Tigriornis leucolopha,,,,LC,White-crested Tiger-heron,AVES,LC
+22697327,Ixobrychus sturmii,,,,LC,Dwarf Bittern,AVES,LC
+22697356,Scopus umbretta,,,,LC,Hamerkop,AVES,LC
+22697369,Phoeniconaias minor,,,,NT,Lesser Flamingo,AVES,NT
+22697422,Plegadis falcinellus,,,,LC,Glossy Ibis,AVES,LC
+22697463,Bostrychia hagedash,,,,LC,Hadada Ibis,AVES,LC
+22697472,Bostrychia olivacea,,,,LC,Olive Ibis,AVES,LC
+22697484,Bostrychia rara,,,,LC,Spot-breasted Ibis,AVES,LC
+22697510,Threskiornis aethiopicus,,,,LC,African Sacred Ibis,AVES,LC
+22697564,Platalea alba,,,,LC,African Spoonbill,AVES,LC
+22697590,Pelecanus onocrotalus,,,,LC,Great White Pelican,AVES,LC
+22697595,Pelecanus rufescens,,,,LC,Pink-backed Pelican,AVES,LC
+22697654,Mycteria ibis,,,,LC,Yellow-billed Stork,AVES,LC
+22697664,Anastomus lamelligerus,,,,LC,African Openbill,AVES,LC
+22697673,Ciconia abdimii,,,,LC,Abdim's Stork,AVES,LC
+22697691,Ciconia ciconia,,,,LC,White Stork,AVES,LC
+22697706,Ephippiorhynchus senegalensis,,,,LC,Saddlebill,AVES,LC
+22697716,Leptoptilos crumenifer,,,,LC,Marabou,AVES,LC
+22697810,Spheniscus demersus,,,,EN,African Penguin,AVES,EN
+22697879,Daption capense,,,,LC,Cape Petrel,AVES,LC
+22698201,Ardenna gravis,,,,LC,Great Shearwater,AVES,LC
+22698209,Ardenna grisea,,,,NT,Sooty Shearwater,AVES,NT
+22698436,Oceanites oceanicus,,,,LC,Wilson's Storm-petrel,AVES,LC
+22698459,Fregetta tropica,,,,LC,Black-bellied Storm-petrel,AVES,LC
+22698465,Fregetta grallaria,,,,LC,White-bellied Storm-petrel,AVES,LC
+22698671,Pitta angolensis,,,,LC,African Pitta,AVES,LC
+22698676,Pitta reichenowi,,,,LC,Green-breasted Pitta,AVES,LC
+22698707,Smithornis capensis,,,,LC,African Broadbill,AVES,LC
+22698711,Smithornis sharpei,,,,LC,Grey-headed Broadbill,AVES,LC
+22698715,Smithornis rufolateralis,,,,LC,Rufous-sided Broadbill,AVES,LC
+22705001,Lanius collurio,,,,LC,Red-backed Shrike,AVES,LC
+22705021,Lanius souzae,,,,LC,Souza's Shrike,AVES,LC
+22705038,Lanius minor,,,,LC,Lesser Grey Shrike,AVES,LC
+22705070,Lanius mackinnoni,,,,LC,Mackinnon's Shrike,AVES,LC
+22706389,Oriolus auratus,,,,LC,African Golden Oriole,AVES,LC
+22706410,Oriolus brachyrynchus,,,,LC,Western Black-headed Oriole,AVES,LC
+22706433,Oriolus nigripennis,,,,LC,Black-winged Oriole,AVES,LC
+22706548,Cyanograucalus azureus,,,,LC,Blue Cuckooshrike,AVES,LC
+22706690,Campephaga petiti,,,,LC,Petit's Cuckooshrike,AVES,LC
+22706705,Campephaga quiscalina,,,,LC,Purple-throated Cuckooshrike,AVES,LC
+22706719,Lobotos oriolinus,,,,DD,Eastern Wattled Cuckooshrike,AVES,DD
+22706927,Dicrurus ludwigii,,,,LC,Square-tailed Drongo,AVES,LC
+22706931,Dicrurus atripennis,,,,LC,Shining Drongo,AVES,LC
+22707008,Erythrocercus mccallii,,,,LC,Chestnut-capped Flycatcher,AVES,LC
+22707021,Elminia longicauda,,,,LC,African Blue-flycatcher,AVES,LC
+22707034,Elminia nigromitrata,,,,LC,Dusky Crested-flycatcher,AVES,LC
+22707061,Trochocercus nitens,,,,LC,Western Crested-flycatcher,AVES,LC
+22707108,Terpsiphone viridis,,,,LC,African Paradise-flycatcher,AVES,LC
+22707455,Dryoscopus gambensis,,,,LC,Northern Puffback,AVES,LC
+22707468,Dryoscopus senegalensis,,,,LC,Red-eyed Puffback,AVES,LC
+22707473,Dryoscopus angolensis,,,,LC,Pink-footed Puffback,AVES,LC
+22707477,Dryoscopus sabini,,,,LC,Sabine's Puffback,AVES,LC
+22707482,Bocagia minuta,,,,LC,Marsh Tchagra,AVES,LC
+22707495,Tchagra senegalus,,,,LC,Black-crowned Tchagra,AVES,LC
+22707505,Tchagra australis,,,,LC,Brown-crowned Tchagra,AVES,LC
+22707524,Laniarius luehderi,,,,LC,Lühder's Bush-shrike,AVES,LC
+22707566,Laniarius bicolor,,,,LC,Swamp Boubou,AVES,LC
+22707606,Laniarius leucorhynchus,,,,LC,Lowland Sooty Boubou,AVES,LC
+22707638,Chlorophoneus bocagei,,,,LC,Bocage's Bush-shrike,AVES,LC
+22707647,Chlorophoneus sulfureopectus,,,,LC,Orange-breasted Bush-shrike,AVES,LC
+22707716,Malaconotus cruentus,,,,LC,Fiery-breasted Bush-shrike,AVES,LC
+22707783,Prionops rufiventris,,,,LC,Rufous-bellied Helmetshrike,AVES,LC
+22707807,Megabyas flammulatus,,,,LC,African Shrike-flycatcher,AVES,LC
+22707816,Bias musicus,,,,LC,Black-and-white Shrike-flycatcher,AVES,LC
+22707864,Batis molitor,,,,LC,Chinspot Batis,AVES,LC
+22707901,Batis minima,,,,LC,Gabon Batis,AVES,LC
+22707910,Batis occulta,,,,LC,West African Batis,AVES,LC
+22707920,Batis minulla,,,,LC,Angola Batis,AVES,LC
+22707924,Platysteira cyanea,,,,LC,Brown-throated Wattle-eye,AVES,LC
+22707950,Dyaphorophyia tonsa,,,,LC,White-spotted Wattle-eye,AVES,LC
+22707966,Dyaphorophyia chalybea,,,,LC,Black-necked Wattle-eye,AVES,LC
+22708119,Picathartes oreas,,,,VU,Grey-necked Rockfowl,AVES,VU
+22708188,Neocossyphus rufus,,,,LC,Red-tailed Ant-thrush,AVES,LC
+22708195,Neocossyphus poensis,,,,LC,White-tailed Ant-thrush,AVES,LC
+22708443,Geokichla camaronensis,,,,LC,Black-eared Ground-thrush,AVES,LC
+22708450,Geokichla princei,,,,LC,Grey Ground-thrush,AVES,LC
+22708702,Turdus pelios,,,,LC,African Thrush,AVES,LC
+22708992,Chamaetylas poliocephala,,,,LC,Brown-chested Alethe,AVES,LC
+22709022,Alethe castanea,,,,LC,Fire-crested Alethe,AVES,LC
+22709035,Agricola pallidus,,,,LC,Pale Flycatcher,AVES,LC
+22709101,Fraseria ocreata,,,,LC,African Forest-flycatcher,AVES,LC
+22709108,Fraseria cinerascens,,,,LC,White-browed Forest-flycatcher,AVES,LC
+22709192,Muscicapa striata,,,,LC,Spotted Flycatcher,AVES,LC
+22709230,Bradornis fuliginosus,,,,LC,Sooty Flycatcher,AVES,LC
+22709244,Fraseria olivascens,,,,LC,Olivaceous Flycatcher,AVES,LC
+22709261,Muscicapa epulata,,,,LC,Little Grey Flycatcher,AVES,LC
+22709266,Muscicapa sethsmithi,,,,LC,Yellow-footed Flycatcher,AVES,LC
+22709271,Bradornis comitatus,,,,LC,Dusky-blue Flycatcher,AVES,LC
+22709280,Muscicapa cassini,,,,LC,Cassin's Flycatcher,AVES,LC
+22709286,Fraseria caerulescens,,,,LC,Ashy Flycatcher,AVES,LC
+22709291,Fraseria griseigularis,,,,LC,Grey-throated Tit-flycatcher,AVES,LC
+22709297,Fraseria plumbea,,,,LC,Grey Tit-flycatcher,AVES,LC
+22709637,Sheppardia cyornithopsis,,,,LC,Lowland Akalat,AVES,LC
+22709803,Cossypha cyanocampter,,,,LC,Blue-shouldered Robin-chat,AVES,LC
+22709822,Cossypha heuglini,,,,LC,White-browed Robin-chat,AVES,LC
+22709828,Cossypha natalensis,,,,LC,Red-capped Robin-chat,AVES,LC
+22709847,Cossypha niveicapilla,,,,LC,Snowy-crowned Robin-chat,AVES,LC
+22709870,Cichladusa ruficauda,,,,LC,Rufous-tailed Palm-thrush,AVES,LC
+22709927,Cercotrichas leucophrys,,,,LC,White-browed Scrub-robin,AVES,LC
+22710156,Saxicola rubetra,,,,LC,Whinchat,AVES,LC
+22710184,Saxicola torquatus,,,,LC,Common Stonechat,AVES,LC
+22710394,Myrmecocichla tholloni,,,,LC,Congo Moor-chat,AVES,LC
+22710416,Myrmecocichla nigra,,,,LC,Sooty Chat,AVES,LC
+22710587,Poeoptera lugubris,,,,LC,Narrow-tailed Starling,AVES,LC
+22710591,Grafisia torquata,,,,LC,White-collared Starling,AVES,LC
+22710624,Onychognathus fulgidus,,,,LC,Chestnut-winged Starling,AVES,LC
+22710654,Hylopsar purpureiceps,,,,LC,Purple-headed Starling,AVES,LC
+22710675,Lamprotornis nitens,,,,LC,Cape Starling,AVES,LC
+22710716,Lamprotornis splendidus,,,,LC,Splendid Starling,AVES,LC
+22710791,Cinnyricinclus leucogaster,,,,LC,Violet-backed Starling,AVES,LC
+22710832,Creatophora cinerea,,,,LC,Wattled Starling,AVES,LC
+22711005,Buphagus africanus,,,,LC,Yellow-billed Oxpecker,AVES,LC
+22711660,Anthoscopus flavifrons,,,,LC,Forest Penduline-tit,AVES,LC
+22711688,Pholidornis rushiae,,,,LC,Tit-hylia,AVES,LC
+22711852,Melaniparus funereus,,,,LC,Dusky Tit,AVES,LC
+22712036,Pseudochelidon eurystomina,,,,DD,African River Martin,AVES,DD
+22712194,Neophedina cincta,,,,LC,Banded Martin,AVES,LC
+22712209,Pseudhirundo griseopyga,,,,LC,Grey-rumped Swallow,AVES,LC
+22712252,Hirundo rustica,,,,LC,Barn Swallow,AVES,LC
+22712260,Hirundo lucida,,,,LC,Red-chested Swallow,AVES,LC
+22712272,Hirundo angolensis,,,,LC,Angola Swallow,AVES,LC
+22712299,Hirundo smithii,,,,LC,Wire-tailed Swallow,AVES,LC
+22712305,Hirundo nigrita,,,,LC,White-bibbed Swallow,AVES,LC
+22712350,Cecropis abyssinica,,,,LC,Lesser Striped Swallow,AVES,LC
+22712358,Cecropis semirufa,,,,LC,Rufous-chested Swallow,AVES,LC
+22712365,Cecropis senegalensis,,,,LC,Mosque Swallow,AVES,LC
+22712405,Petrochelidon rufigula,,,,LC,Red-throated Swallow,AVES,LC
+22712412,Petrochelidon spilodera,,,,LC,South African Swallow,AVES,LC
+22712471,Atronanus fuliginosus,,,,LC,Forest Swallow,AVES,LC
+22712504,Psalidoprocne nitens,,,,LC,Square-tailed Saw-wing,AVES,LC
+22712540,Psalidoprocne pristoptera,,,,LC,Black Saw-wing,AVES,LC
+22712650,Pycnonotus barbatus,,,,LC,Common Bulbul,AVES,LC
+22712766,Eurillas virens,,,,LC,Little Greenbul,AVES,LC
+22712777,Eurillas gracilis,,,,LC,Grey Greenbul,AVES,LC
+22712782,Eurillas ansorgei,,,,LC,Ansorge's Greenbul,AVES,LC
+22712786,Eurillas curvirostris,,,,LC,Plain Greenbul,AVES,LC
+22712791,Stelgidillas gracilirostris,,,,LC,Slender-billed Greenbul,AVES,LC
+22712800,Eurillas latirostris,,,,LC,Yellow-whiskered Greenbul,AVES,LC
+22712833,Calyptocichla serinus,,,,LC,Golden Greenbul,AVES,LC
+22712837,Baeopogon indicator,,,,LC,Honeyguide Greenbul,AVES,LC
+22712841,Baeopogon clamans,,,,LC,White-tailed Greenbul,AVES,LC
+22712847,Ixonotus guttatus,,,,LC,Spotted Greenbul,AVES,LC
+22712851,Chlorocichla simplex,,,,LC,Simple Greenbul,AVES,LC
+22712860,Chlorocichla falkensteini,,,,LC,Falkenstein's Greenbul,AVES,LC
+22712877,Thescelocichla leucopleura,,,,LC,Swamp Palm Bulbul,AVES,LC
+22712882,Pyrrhurus scandens,,,,LC,Leaf-love,AVES,LC
+22712914,Phyllastrephus fulviventris,,,,LC,Pale-olive Greenbul,AVES,LC
+22712981,Phyllastrephus xavieri,,,,LC,Xavier's Greenbul,AVES,LC
+22713056,Bleda syndactylus,,,,LC,Red-tailed Bristlebill,AVES,LC
+22713095,Nicator chloris,,,,LC,Western Nicator,AVES,LC
+22713105,Nicator vireo,,,,LC,Yellow-throated Nicator,AVES,LC
+22713115,Criniger chloronotus,,,,LC,Eastern Bearded Greenbul,AVES,LC
+22713120,Criniger calurus,,,,LC,Red-tailed Greenbul,AVES,LC
+22713131,Criniger ndussumensis,,,,LC,White-bearded Greenbul,AVES,LC
+22713256,Neolestes torquatus,,,,LC,Black-collared Bulbul,AVES,LC
+22713268,Cisticola erythrops,,,,LC,Red-faced Cisticola,AVES,LC
+22713283,Cisticola lateralis,,,,LC,Whistling Cisticola,AVES,LC
+22713287,Cisticola anonymus,,,,LC,Chattering Cisticola,AVES,LC
+22713333,Cisticola chiniana,,,,LC,Rattling Cisticola,AVES,LC
+22713365,Cisticola rufilatus,,,,LC,Tinkling Cisticola,AVES,LC
+22713440,Cisticola natalensis,,,,LC,Croaking Cisticola,AVES,LC
+22713444,Cisticola fulvicapilla,,,,LC,Neddicky,AVES,LC
+22713474,Cisticola brachypterus,,,,LC,Short-winged Cisticola,AVES,LC
+22713491,Cisticola juncidis,,,,LC,Zitting Cisticola,AVES,LC
+22713530,Cisticola dambo,,,,LC,Dambo Cisticola,AVES,LC
+22713540,Cisticola ayresii,,,,LC,Wing-snapping Cisticola,AVES,LC
+22713607,Prinia subflava,,,,LC,Tawny-flanked Prinia,AVES,LC
+22713643,Schistolais leucopogon,,,,LC,White-chinned Prinia,AVES,LC
+22713647,Prinia bairdii,,,,LC,Banded Prinia,AVES,LC
+22713729,Apalis nigriceps,,,,LC,Black-capped Apalis,AVES,LC
+22713733,Apalis jacksoni,,,,LC,Black-throated Apalis,AVES,LC
+22713741,Apalis binotata,,,,LC,Masked Apalis,AVES,LC
+22713770,Apalis rufogularis,,,,LC,Buff-throated Apalis,AVES,LC
+22713792,Apalis goslingi,,,,LC,Gosling's Apalis,AVES,LC
+22713868,Camaroptera superciliaris,,,,LC,Yellow-browed Camaroptera,AVES,LC
+22713934,Zosterops senegalensis,,,,LC,African Yellow White-eye,AVES,LC
+22714454,Bradypterus grandis,,,,NT,Dja River Swamp-warbler,AVES,NT
+22714574,Bathmocercus rufus,,,,LC,Black-faced Rufous-warbler,AVES,LC
+22714634,Melocichla mentalis,,,,LC,Moustached Grass-warbler,AVES,LC
+22714700,Acrocephalus schoenobaenus,,,,LC,Sedge Warbler,AVES,LC
+22714722,Acrocephalus scirpaceus,,,,LC,Common Reed-warbler,AVES,LC
+22714916,Hippolais icterina,,,,LC,Icterine Warbler,AVES,LC
+22714920,Iduna natalensis,,,,LC,African Yellow Warbler,AVES,LC
+22715023,Eremomela icteropygialis,,,,LC,Yellow-bellied Eremomela,AVES,LC
+22715050,Eremomela scotops,,,,LC,Green-capped Eremomela,AVES,LC
+22715060,Eremomela badiceps,,,,LC,Rufous-crowned Eremomela,AVES,LC
+22715099,Sylvietta virens,,,,LC,Green Crombec,AVES,LC
+22715103,Sylvietta denti,,,,LC,Lemon-bellied Crombec,AVES,LC
+22715127,Sylvietta ruficapilla,,,,LC,Red-capped Crombec,AVES,LC
+22715154,Macrosphenus flavicans,,,,LC,Yellow Longbill,AVES,LC
+22715158,Macrosphenus concolor,,,,LC,Grey Longbill,AVES,LC
+22715182,Hylia prasina,,,,LC,Green Hylia,AVES,LC
+22715228,Phylloscopus budongoensis,,,,LC,Uganda Woodland-warbler,AVES,LC
+22715240,Phylloscopus trochilus,,,,LC,Willow Warbler,AVES,LC
+22715255,Phylloscopus bonelli,,,,LC,Western Bonelli's Warbler,AVES,LC
+22715260,Phylloscopus sibilatrix,,,,LC,Wood Warbler,AVES,LC
+22715462,Hyliota flavigaster,,,,LC,Yellow-bellied Hyliota,AVES,LC
+22715471,Hyliota violacea,,,,LC,Violet-backed Hyliota,AVES,LC
+22715572,Schoenicola brevirostris,,,,LC,Fan-tailed Grassbird,AVES,LC
+22715891,Illadopsis cleaveri,,,,LC,Black-capped Illadopsis,AVES,LC
+22715914,Illadopsis fulvescens,,,,LC,Brown Illadopsis,AVES,LC
+22716501,Turdoides jardineii,,,,LC,Arrow-marked Babbler,AVES,LC
+22716906,Sylvia borin,,,,LC,Garden Warbler,AVES,LC
+22716910,Sylvia communis,,,,LC,Common Whitethroat,AVES,LC
+22717068,Mirafra rufocinnamomea,,,,LC,Flappet Lark,AVES,LC
+22717629,Anthreptes gabonicus,,,,LC,Mouse-brown Sunbird,AVES,LC
+22717635,Anthreptes longuemarei,,,,LC,Western Violet-backed Sunbird,AVES,LC
+22717649,Anthreptes aurantius,,,,LC,Violet-tailed Sunbird,AVES,LC
+22717668,Hedydipna collaris,,,,LC,Collared Sunbird,AVES,LC
+22717683,Anthreptes seimundi,,,,LC,Little Green Sunbird,AVES,LC
+22717687,Cinnyris batesi,,,,LC,Bates's Sunbird,AVES,LC
+22717691,Cyanomitra olivacea,,,,LC,Olive Sunbird,AVES,LC
+22717705,Anabathmis reichenbachii,,,,LC,Reichenbach's Sunbird,AVES,LC
+22717738,Cyanomitra verticalis,,,,LC,Green-headed Sunbird,AVES,LC
+22717746,Cyanomitra cyanolaema,,,,LC,Blue-throated Brown Sunbird,AVES,LC
+22717758,Chalcomitra fuliginosa,,,,LC,Carmelite Sunbird,AVES,LC
+22717762,Chalcomitra amethystina,,,,LC,Amethyst Sunbird,AVES,LC
+22717766,Chalcomitra rubescens,,,,LC,Green-throated Sunbird,AVES,LC
+22717826,Cinnyris venustus,,,,LC,Variable Sunbird,AVES,LC
+22717846,Cinnyris bouvieri,,,,LC,Orange-tufted Sunbird,AVES,LC
+22717919,Cinnyris chloropygius,,,,LC,Olive-bellied Sunbird,AVES,LC
+22717923,Cinnyris minullus,,,,LC,Tiny Sunbird,AVES,LC
+22717945,Cinnyris cupreus,,,,LC,Copper Sunbird,AVES,LC
+22718027,Cinnyris coccinigastrus,,,,LC,Splendid Sunbird,AVES,LC
+22718031,Cinnyris johannae,,,,LC,Johanna's Sunbird,AVES,LC
+22718035,Cinnyris superbus,,,,LC,Superb Sunbird,AVES,LC
+22718230,Passer griseus,,,,LC,Northern Grey-headed Sparrow,AVES,LC
+22718299,Gymnoris superciliaris,,,,LC,Yellow-throated Bush-sparrow,AVES,LC
+22718348,Motacilla alba,,,,LC,White Wagtail,AVES,LC
+22718366,Motacilla aguimp,,,,LC,African Pied Wagtail,AVES,LC
+22718397,Motacilla clara,,,,LC,Mountain Wagtail,AVES,LC
+22718405,Macronyx croceus,,,,LC,Yellow-throated Longclaw,AVES,LC
+22718485,Anthus leucophrys,,,,LC,Plain-backed Pipit,AVES,LC
+22718493,Anthus pallidiventris,,,,LC,Long-legged Pipit,AVES,LC
+22718532,Anthus brachyurus,,,,LC,Short-tailed Pipit,AVES,LC
+22718546,Anthus trivialis,,,,LC,Tree Pipit,AVES,LC
+22718560,Anthus cervinus,,,,LC,Red-throated Pipit,AVES,LC
+22718743,Ploceus nigrimentus,,,,LC,Black-chinned Weaver,AVES,LC
+22718770,Ploceus pelzelni,,,,LC,Slender-billed Weaver,AVES,LC
+22718774,Ploceus subpersonatus,,,,VU,Loango Weaver,AVES,VU
+22718787,Ploceus ocularis,,,,LC,Spectacled Weaver,AVES,LC
+22718818,Ploceus xanthops,,,,LC,Holub's Golden Weaver,AVES,LC
+22718833,Ploceus aurantius,,,,LC,Orange Weaver,AVES,LC
+22718921,Ploceus cucullatus,,,,LC,Village Weaver,AVES,LC
+22718983,Ploceus tricolor,,,,LC,Yellow-mantled Weaver,AVES,LC
+22718987,Ploceus albinucha,,,,LC,Maxwell's Black Weaver,AVES,LC
+22719017,Ploceus bicolor,,,,LC,Dark-backed Weaver,AVES,LC
+22719022,Ploceus preussi,,,,LC,Preuss's Weaver,AVES,LC
+22719027,Ploceus dorsomaculatus,,,,LC,Yellow-capped Weaver,AVES,LC
+22719054,Ploceus superciliosus,,,,LC,Compact Weaver,AVES,LC
+22719069,Malimbus coronatus,,,,LC,Red-crowned Malimbe,AVES,LC
+22719073,Malimbus cassini,,,,LC,Cassin's Malimbe,AVES,LC
+22719083,Malimbus racheliae,,,,LC,Rachel's Malimbe,AVES,LC
+22719095,Malimbus erythrogaster,,,,LC,Red-bellied Malimbe,AVES,LC
+22719099,Malimbus nitens,,,,LC,Blue-billed Malimbe,AVES,LC
+22719104,Malimbus malimbicus,,,,LC,Crested Malimbe,AVES,LC
+22719108,Malimbus rubricollis,,,,LC,Red-headed Malimbe,AVES,LC
+22719124,Quelea erythrops,,,,LC,Red-headed Quelea,AVES,LC
+22719128,Quelea quelea,,,,LC,Red-billed Quelea,AVES,LC
+22719176,Euplectes hordeaceus,,,,LC,Black-winged Bishop,AVES,LC
+22719209,Euplectes macroura,,,,LC,Yellow-mantled Widowbird,AVES,LC
+22719223,Euplectes albonotatus,,,,LC,White-winged Widowbird,AVES,LC
+22719233,Euplectes hartlaubi,,,,LC,Marsh Widowbird,AVES,LC
+22719260,Amblyospiza albifrons,,,,LC,Thick-billed Weaver,AVES,LC
+22719273,Parmoptila woodhousei,,,,LC,Woodhouse's Antpecker,AVES,LC
+22719278,Nigrita fusconotus,,,,LC,White-breasted Nigrita,AVES,LC
+22719288,Nigrita bicolor,,,,LC,Chestnut-breasted Nigrita,AVES,LC
+22719293,Nigrita luteifrons,,,,LC,Pale-fronted Nigrita,AVES,LC
+22719298,Nigrita canicapillus,,,,LC,Grey-headed Nigrita,AVES,LC
+22719344,Pytilia melba,,,,LC,Green-winged Pytilia,AVES,LC
+22719354,Mandingoa nitidula,,,,LC,Green Twinspot,AVES,LC
+22719384,Pyrenestes ostrinus,,,,LC,Black-bellied Seedcracker,AVES,LC
+22719398,Spermophaga haematina,,,,LC,Western Bluebill,AVES,LC
+22719407,Clytospiza monteiri,,,,LC,Brown Twinspot,AVES,LC
+22719522,Estrilda perreini,,,,LC,Black-tailed Waxbill,AVES,LC
+22719548,Estrilda paludicola,,,,LC,Fawn-breasted Waxbill,AVES,LC
+22719558,Estrilda melpoda,,,,LC,Orange-cheeked Waxbill,AVES,LC
+22719574,Estrilda astrild,,,,LC,Common Waxbill,AVES,LC
+22719589,Estrilda nonnula,,,,LC,Black-crowned Waxbill,AVES,LC
+22719624,Amandava subflava,,,,LC,Zebra Waxbill,AVES,LC
+22719645,Paludipasser locustella,,,,LC,Locust Finch,AVES,LC
+22719782,Spermestes cucullata,,,,LC,Bronze Mannikin,AVES,LC
+22719801,Spermestes fringilloides,,,,LC,Magpie Mannikin,AVES,LC
+22719988,Vidua macroura,,,,LC,Pin-tailed Whydah,AVES,LC
+22720105,Crithagra capistrata,,,,LC,Black-faced Canary,AVES,LC
+22720181,Crithagra mozambica,,,,LC,Yellow-fronted Canary,AVES,LC
+22720986,Emberiza cabanisi,,,,LC,Cabanis's Bunting,AVES,LC
+22724813,Psittacus erithacus,,,,EN,Grey Parrot,AVES,EN
+22724997,Apus horus,,,,LC,Horus Swift,AVES,LC
+22725531,Turnix nanus,,,,LC,Black-rumped Buttonquail,AVES,LC
+22725623,Ceuthmochares aereus,,,,LC,Chattering Yellowbill,AVES,LC
+22725956,Horizocerus cassini,,,,LC,Eastern Long-tailed Hornbill,AVES,LC
+22725974,Bycanistes sharpii,,,,LC,Eastern Piping Hornbill,AVES,LC
+22725980,Trachylaemus purpuratus,,,,LC,Eastern Yellow-billed Barbet,AVES,LC
+22726016,Gymnobucco calvus,,,,LC,Naked-faced Barbet,AVES,LC
+22726032,Gymnobucco bonapartei,,,,LC,Grey-throated Barbet,AVES,LC
+22726092,Pogonornis minor,,,,LC,Brown-faced Barbet,AVES,LC
+22727003,Horizocerus hartlaubi,,,,LC,Western Little Hornbill,AVES,LC
+22727114,Dendropicos elliotii,,,,LC,Elliot's Woodpecker,AVES,LC
+22727265,Ciconia microscelis,,,,LC,African Woollyneck,AVES,LC
+22727471,Charadrius tricollaris,,,,LC,African Three-banded Plover,AVES,LC
+22727487,Charadrius alexandrinus,,,,LC,Kentish Plover,AVES,LC
+22727677,Ardea brachyrhyncha,,,,LC,Yellow-billed Egret,AVES,LC
+22727705,Accipiter toussenelii,,,,LC,Red-chested Goshawk,AVES,LC
+22727969,Himantopus himantopus,,,,LC,Black-winged Stilt,AVES,LC
+22728182,Butorides striata,,,,LC,Green-backed Heron,AVES,LC
+22729692,Egretta gularis,,,,LC,Western Reef-egret,AVES,LC
+22730030,Bubo poensis,,,,LC,Fraser's Eagle-owl,AVES,LC
+22730097,Caprimulgus pectoralis,,,,LC,Fiery-necked Nightjar,AVES,LC
+22730264,Dendropicos gabonensis,,,,LC,Gabon Woodpecker,AVES,LC
+22730269,Dendropicos goertae,,,,LC,Grey Woodpecker,AVES,LC
+22730499,Mirafra africana,,,,LC,Rufous-naped Lark,AVES,LC
+22730635,Lanius collaris,,,,LC,Common Fiscal,AVES,LC
+22730664,Chlorophoneus multicolor,,,,LC,Many-coloured Bush-shrike,AVES,LC
+22730909,Apalis cinerea,,,,LC,Grey Apalis,AVES,LC
+22731073,Terpsiphone rufiventer,,,,LC,Red-bellied Paradise-flycatcher,AVES,LC
+22731087,Anthoscopus caroli,,,,LC,Grey Penduline-tit,AVES,LC
+22731092,Melaniparus leucomelas,,,,LC,Dark-eyed Black Tit,AVES,LC
+22731333,Crithagra atrogularis,,,,LC,Black-throated Canary,AVES,LC
+22732244,Calonectris borealis,,,,LC,Cory's Shearwater,AVES,LC
+22734102,Batis erlangeri,,,,LC,Western Black-headed Batis,AVES,LC
+22734972,Milvus migrans,,,,LC,Black Kite,AVES,LC
+22735640,Stiphrornis pyrrholaemus,,,,NT,Olive-backed Forest-robin,AVES,NT
+22735766,Ixobrychus minutus,,,,LC,Common Little Bittern,AVES,LC
+22735810,Rostratula benghalensis,,,,LC,Greater Painted-snipe,AVES,LC
+22735894,Corvus albus,,,,LC,Pied Crow,AVES,LC
+22735955,Ortygospiza atricollis,,,,LC,African Quailfinch,AVES,LC
+22736507,Merops muelleri,,,,LC,Blue-headed Bee-eater,AVES,LC
+45061132,Calonectris diomedea,,,,LC,Scopoli's Shearwater,AVES,LC
+45354964,Falco peregrinus,,,,LC,Peregrine Falcon,AVES,LC
+45433088,Crocodylus niloticus,,,,LC,Nile Crocodile,REPTILIA,LC
+45433492,Treron calvus,,,,LC,African Green-pigeon,AVES,LC
+45953631,Sarkidiornis melanotos,,,,LC,African Comb Duck,AVES,LC
+46203837,Sclerophrys superciliaris,,,,LC,Cameroon Toad,AMPHIBIA,LC
+46967838,Dermochelys coriacea Southwest Atlantic Ocean subpopulation,,,Southwest Atlantic Ocean subpopulation,CR,Leatherback,REPTILIA,CR
+46967848,Dermochelys coriacea Southeast Atlantic Ocean subpopulation,,,Southeast Atlantic Ocean subpopulation,DD,Leatherback,REPTILIA,DD
+47979811,Hylomyscus walterverheyeni,,,,LC,Walter Verheyen's Mouse,MAMMALIA,LC
+48018502,Praomys tullbergi,,,,LC,Tullberg's Soft-furred Mouse,MAMMALIA,LC
+48294467,Sylvisorex ollula,,,,LC,Forest Musk Shrew,MAMMALIA,LC
+61612961,Lophoceros fasciatus,,,,LC,Congo Pied Hornbill,AVES,LC
+61627052,Merops variegatus,,,,LC,Blue-breasted Bee-eater,AVES,LC
+61650582,Corythornis cristatus,,,,LC,Malachite Kingfisher,AVES,LC
+61695117,Buteo buteo,,,,LC,Eurasian Buzzard,AVES,LC
+61741628,Bubo africanus,,,,LC,Spotted Eagle-owl,AVES,LC
+61781923,Ptilopsis granti,,,,LC,Southern White-faced Owl,AVES,LC
+62026481,Gelochelidon nilotica,,,,LC,Common Gull-billed Tern,AVES,LC
+62774969,Egretta garzetta,,,,LC,Little Egret,AVES,LC
+76317565,Ptychadena mascareniensis,,,,LC,Mascarene Grass Frog,AMPHIBIA,LC
+84462869,Megaloglossus woermanni,,,,LC,Woermann's Bat,MAMMALIA,LC
+84463104,Myonycteris torquata,,,,LC,Little Collared Fruit Bat,MAMMALIA,LC
+84464403,Scotonycteris zenkeri,,,,LC,Zenker's Fruit Bat,MAMMALIA,LC
+84520853,Sclerophrys pusilla,,,,LC,Merten's Striped Toad,AMPHIBIA,LC
+89251039,Phrynobatrachus horsti,,,,NT,Horst's Puddle Frog,AMPHIBIA,NT
+89257078,Xenopus mellotropicalis,,,,LC,Cameroon Clawed Frog,AMPHIBIA,LC
+89257274,Xenopus parafraseri,,,,LC,Upland Clawed Frog,AMPHIBIA,LC
+92411527,Cercopithecus pogonias,,,,NT,Crowned Monkey,MAMMALIA,NT
+95587156,Lophocebus albigena ssp. albigena,albigena,ssp.,,VU,Gray-cheeked Mangabey,MAMMALIA,VU
+103692938,Oriolus oriolus,,,,LC,Eurasian Golden Oriole,AVES,LC
+103704564,Dyaphorophyia castanea,,,,LC,Chestnut Wattle-eye,AVES,LC
+103704667,Dyaphorophyia ansorgei,,,,LC,Yellow-bellied Wattle-eye,AVES,LC
+103707122,Telophorus viridis,,,,LC,Gorgeous Bush-shrike,AVES,LC
+103710902,Dicrurus adsimilis,,,,LC,Fork-tailed Drongo,AVES,LC
+103710940,Dicrurus modestus,,,,LC,Velvet-mantled Drongo,AVES,LC
+103716188,Terpsiphone rufocinerea,,,,LC,Rufous-vented Paradise-flycatcher,AVES,LC
+103716224,Terpsiphone batesi,,,,LC,Bates's Paradise-flycatcher,AVES,LC
+103718693,Lanius isabellinus,,,,LC,Isabelline Shrike,AVES,LC
+103718714,Lanius phoenicuroides,,,,LC,Red-tailed Shrike,AVES,LC
+103762997,Stiphrornis xanthogaster,,,,LC,Yellow-breasted Forest-robin,AVES,LC
+103763077,Stiphrornis erythrothorax,,,,LC,Orange-breasted Forest-robin,AVES,LC
+103767669,Emberiza tahapisi,,,,LC,Cinnamon-breasted Bunting,AVES,LC
+103772612,Apalis flavida,,,,LC,Yellow-breasted Apalis,AVES,LC
+103773898,Oenanthe oenanthe,,,,LC,Northern Wheatear,AVES,LC
+103774592,Camaroptera brachyura,,,,LC,Bleating Camaroptera,AVES,LC
+103774800,Camaroptera chloronota,,,,LC,Olive-green Camaroptera,AVES,LC
+103776094,Cisticola marginatus,,,,LC,Winding Cisticola,AVES,LC
+103776392,Cisticola brunnescens,,,,LC,Pectoral-patch Cisticola,AVES,LC
+103776400,Cisticola cinnamomeus,,,,LC,Pale-crowned Cisticola,AVES,LC
+103792577,Deleornis fraseri,,,,LC,Fraser's Sunbird,AVES,LC
+103792796,Anthreptes tephrolaemus,,,,LC,Grey-chinned Sunbird,AVES,LC
+103801419,Cinnyris bifasciatus,,,,LC,Purple-banded Sunbird,AVES,LC
+103810858,Euplectes ardens,,,,LC,Red-collared Widowbird,AVES,LC
+103811662,Ploceus nigricollis,,,,LC,Black-necked Weaver,AVES,LC
+103811886,Delichon urbicum,,,,LC,Northern House Martin,AVES,LC
+103812246,Ploceus nigerrimus,,,,LC,Vieillot's Black Weaver,AVES,LC
+103812643,Cecropis daurica,,,,LC,Red-rumped Swallow,AVES,LC
+103813598,Estrilda atricapilla,,,,LC,Black-headed Waxbill,AVES,LC
+103815961,Riparia riparia,,,,LC,Collared Sand Martin,AVES,LC
+103817273,Bleda notatus,,,,LC,Yellow-lored Bristlebill,AVES,LC
+103817506,Atimastillas flavigula,,,,LC,Pale-throated Greenbul,AVES,LC
+103819468,Phyllastrephus albigularis,,,,LC,White-throated Greenbul,AVES,LC
+103821482,Anthus nyassae,,,,LC,Woodland Pipit,AVES,LC
+103822349,Motacilla flava,,,,LC,Western Yellow Wagtail,AVES,LC
+103869025,Illadopsis rufipennis,,,,LC,Pale-breasted Illadopsis,AVES,LC
+103878959,Stizorhina fraseri,,,,LC,Rufous Flycatcher-thrush,AVES,LC
+104005790,Ptyonoprogne rufigula,,,,LC,Red-throated Rock Martin,AVES,LC
+104317670,Acrocephalus arundinaceus,,,,LC,Great Reed-warbler,AVES,LC
+105968860,Spermestes bicolor,,,,LC,Black-and-white Mannikin,AVES,LC
+112169507,Cricetomys gambianus,,,,LC,Gambian Rat,MAMMALIA,LC
+112518189,Crocidura goliath,,,,LC,Goliath Shrew,MAMMALIA,LC
+119195196,Phyllastrephus icterinus,,,,LC,Icterine Greenbul,AVES,LC
+132438298,Hydrobates leucorhous,,,,VU,Leach's Storm-petrel,AVES,VU
+142121866,Chelonia mydas South Atlantic subpopulation,,,South Atlantic subpopulation,LC,Green Turtle,REPTILIA,LC
+155257123,Cypsiurus parvus,,,,LC,African Palm-swift,AVES,LC
