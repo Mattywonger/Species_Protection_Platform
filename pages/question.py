@@ -4,37 +4,15 @@ import pandas as pd
 from pages import geography,dashboard
 import dash_bootstrap_components as dbc
 from IPython.display import display
-from pages import data_helper
+from pages import data_helper,design_helper
 
 #CSV--> DF
-df_count_CM=pd.read_csv('Species_count_CM.csv')
-df_test=pd.read_csv('Species_count_GB.csv')
-df_GA=pd.read_csv('data_species_master/species_masterGA.csv')
-df_CD=pd.read_csv('data_species_master/Species_masterCD.csv')
-df_CM=pd.read_csv('data_species_master/Species_masterCM.csv')
-df_GQ=pd.read_csv('data_species_master/Species_masterGQ.csv')
-df_CF=pd.read_csv('data_species_master/Species_masterCF.csv')
-df_CG=pd.read_csv('data_species_master/Species_masterCG.csv')
-df_master=pd.read_csv('Species_count.csv')
-
+df_count_CM,df_GA,df_CD,df_CM,df_GQ,df_CF,df_CG,df_master = data_helper.csv_reading()
 
 layout_question = html.Div(
     style={'display':'flex','flexDirection':'column'},
     children=[
-        html.Div(
-            style={'display': 'flex',
-                   'width': '1728px',
-                    'height': '111px',
-                    'padding': '26px 709px 27px 104px',
-                    'align-items': 'center',
-                    'flex-shrink': 0,
-                    'background': 'black'},
-                children=[
-                    html.Img(src='assets/Tree.png',style={'width': '54.908px','height': '48.004px', 'flex-shrink': 0,'display':'inline-block'}),
-                   html.Img(src='assets/Project.png',style={'width': '140.438px','height': '42.499px', 'flex-shrink': 0,'display':'inline-block'}),
-                    html.Img(src='assets/six_buttons.png',style={'width': '12px','height': '21px','flex-shrink': 0}),
-                    html.Img(src='assets/Canopy.png',style={'width': '127.164px','height': '42.499px','flex-shrink': 0,'fill': 'rgba(215, 216, 219, 0.80)'}),
-            ]),
+        design_helper.top_banner(),
         html.Div(
             style={'height':'69px','margin-left':'108px','flex-shrink': 0,'margin-top':'105px'},
             children=[html.Div("Tell me,",style={'font-family':'IBM Plex Sans Medium','font-size':'35px','font-weight':500,'line-height':'normal'})]
@@ -45,73 +23,15 @@ layout_question = html.Div(
         children=[
 
             html.Div("Which are the",style={'font-size': '20px','font-family':'IBM Plex Sans Light','font-weight':'300', 'line-height':'150%'}),
-            html.Div(
-                style={'display':'flex','flexDirection':'column','margin-left':'12px'},
-                children=[
-                    
-                    html.Button("Select Time", id='collapse-button-Time',style={'border':'none','text-decoration':'underline','background-color':'transparent','font-size': '20px','font-family':'IBM Plex Sans Regular','font-weight':'300', 'line-height':'150%'}),
-                    html.Div(id='collapsible-section-Time', children=[
-                             dcc.Checklist(
-                        ['Current', 'Historic'],
-                        ['Current'],
-                        id='checkboxes-Time',
-                        labelStyle={'display': 'block'}
-
-                                    )    
-    ])
-                ],),
-
-            html.Div(
-                style={'display':'flex','flexDirection':'column','margin-left':'12px'},
-                children=[
-                    html.Button("Select Conservation", id='collapse-button-Conservation',style={'border':'none','text-decoration':'underline','background-color':'transparent','font-size': '20px','font-family':'IBM Plex Sans Regular','font-weight':'300', 'line-height':'150%'}),
-                    html.Div(id='collapsible-section-Conservation', children=[
-                             dcc.Checklist(
-                        ['Conservation', 'National Protections', 'Int Protections (CITES)'],
-                        ['Conservation'],
-                        id='checkboxes-Conservation',
-                                    )  
-    ])
-                ],),
+            design_helper.question_dropdown("time"),
+            design_helper.question_dropdown("conservation"),
+            design_helper.question_dropdown("species"),
+            design_helper.question_dropdown("countries"),
             
-
-            html.Div(
-                style={'display':'flex','flexDirection':'column','margin-left':'12px'},
-                children=[
-                    html.Button("Select Species", id='collapse-button-Species',style={'border':'none','text-decoration':'underline','background-color':'transparent','font-size': '20px','font-family':'IBM Plex Sans Regular','font-weight':'300', 'line-height':'150%'}),
-                    html.Div(id='collapsible-section-Species', children=[
-                            dcc.Checklist(
-                        ['Amphibians', 'Reptiles','Birds','Mammals'],
-                        ['Amphibians'],
-                        id='checkboxes-Species',
-                        labelStyle={'display': 'block'}
-                                    )
-    ])
-                ],),
-            html.Div(
-                style={'display':'flex','flexDirection':'column'},
-                children=[
-                    html.Button("select Country", id='collapse-button-Country',style={'border':'none','text-decoration':'underline','background-color':'transparent','font-size': '20px','font-family':'IBM Plex Sans Regular','font-weight':'300', 'line-height':'150%'}),
-                    html.Div(id='collapsible-section-Country', children=[
-                            dcc.Checklist(
-                        ['Cameroon','Central African Republic','DRC', 'Gabon', 'Equitorial Guinea','Republic of Congo'],
-                        ['Cameroon'],
-                        id='checkboxes-Country',
-                        labelStyle={'display': 'block'}
-                                    )
-    ])
-                ],
-            ),
         ]
     ),
-    
-        html.Div(
-            style={'margin-top':'387px','margin-left':'107px','margin-bottom':'135px'},
-            children=[
-            dbc.Button('Submit',id='submit-button',href="",style={'background-color':'black','color':'white'})
-            ]
-        )
-        
+            html.H1("Testing the new method",className="my-custom-text"),
+            design_helper.submit_button()
     ]
 
 )

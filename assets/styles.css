@@ -1,0 +1,84 @@
+.my-custom-text {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #0077b6;
+    /* Add any other styles you want */
+}
+
+.gradient-black{
+    background: linear-gradient(90deg, #111212 -0.2%, #545555 115.31%);
+}
+
+.section-titles{
+    color: var(--text-light-gray, #D1D2D3);
+font-family: IBM Plex Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.gradientblue{
+    background: var(--Dark-Blue, #3D506B);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.whitetext{
+    color: var(--text-white, #FEFEFE);
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.left-panel-dropdowntext{
+    color: var(--text-white, #FEFEFE);
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+}
+
+.toggle{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+.vectorline{
+    opacity: 0.15;
+background: #FFF;
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(“assets/IBMPlexSans-LightItalic.otf”);
+    }
+.black{
+    background: #1C1C1C;
+}
+
+.solidnavyblue{
+    border: 1px solid #000;
+    background: #0286FF;
+}
+
+.solidmediumblue{
+    border: 1px solid #000;
+    background: #59AFFF;
+}
+
+.solidlightblue{
+    border: 1px solid #000;
+    background: #ACC1E2;
+}
+
+.classwords{
+    color: var(--text-white, #FEFEFE);
+font-family: IBM Plex Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

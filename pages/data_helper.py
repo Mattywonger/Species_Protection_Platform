@@ -2,13 +2,23 @@ import pandas as pd
 from itertools import filterfalse
 
 
-'''
-    for i in master_list[:]:
-        for j in list[:]:
-            if i==j:
+def auto_style(width,height,margin_left=0,margin_right=0,margin_top=0,margin_bottom=0):
+    style={'width': width,'height':height,'margin_left':margin_left,'margin_right':margin_right,'margin_top':margin_top,'margin_bottom':margin_bottom}
+    return style
 
-                print('entered')
-                master_list.remove(i)'''
+def auto_style_flex(flexdirection,width,height,margin_left=0,margin_right=0,margin_top=0,margin_bottom=0):
+    style={'display': 'flex', 'flex-direction': flexdirection,'width': width,'height':height,'margin_left':margin_left,'margin_right':margin_right,'margin_top':margin_top,'margin_bottom':margin_bottom}
+    return style
+def csv_reading():
+    df_count_CM=pd.read_csv('Species_count_CM.csv')
+    df_GA=pd.read_csv('data_species_master/species_masterGA.csv')
+    df_CD=pd.read_csv('data_species_master/Species_masterCD.csv')
+    df_CM=pd.read_csv('data_species_master/Species_masterCM.csv')
+    df_GQ=pd.read_csv('data_species_master/Species_masterGQ.csv')
+    df_CF=pd.read_csv('data_species_master/Species_masterCF.csv')
+    df_CG=pd.read_csv('data_species_master/Species_masterCG.csv')
+    df_master=pd.read_csv('Species_count.csv')
+    return df_count_CM,df_GA,df_CD,df_CM,df_GQ,df_CF,df_CG,df_master
 
 def list_filtering(list,master_list):
     for i in reversed(master_list):
