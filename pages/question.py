@@ -4,10 +4,14 @@ import pandas as pd
 from pages import geography,dashboard
 import dash_bootstrap_components as dbc
 from IPython.display import display
-from pages import data_helper,design_helper
+from pages import data_helper,design_helper,data_preparation
 
 #CSV--> DF
 df_count_CM,df_GA,df_CD,df_CM,df_GQ,df_CF,df_CG,df_master = data_helper.csv_reading()
+
+#Data Preparation:
+
+
 
 layout_question = html.Div(
     style={'display':'flex','flexDirection':'column'},
@@ -116,43 +120,13 @@ def toggle_collapse(n_clicks, collapse_state,select,button_text):
 @callback(
     Output('dashboard_tables','data'),
     Output('storage','data'),
-    Output('conservation-boolean','data'),
     Input('checkboxes-Time', 'value'),
     Input('checkboxes-Conservation', 'value'),
     Input('checkboxes-Species', 'value'),
     Input('checkboxes-Country', 'value'),
 )
-
-def data_parsing(time,conservation,species,country):
-    species_list=['Amphibians','Reptiles','Birds',"Mammals"]
-    country=data_helper.list_to_string(country,'and')
-    index_list=[]
-    conservation_list=[]
-
-    if ((data_helper.list_to_string(conservation))=='Conservation'):
-        conservation_list.append('Conservation')
-        if not country is None:
-            country_strip=country.strip()
-            time=data_helper.list_to_string(time)
-            if (country_strip=="Cameroon"):
-                if time=='Current':
-                    print("entered current")
-                    filtered_list=data_helper.list_filtering(species,species_list)
-                    filtered_list=data_helper.list_transformation(filtered_list)
-                    print(filtered_list)
-                    for i, row in df_CM.iterrows():
-                        for j in range(len(filtered_list)):
-                            if (row['Species Class'])==(filtered_list[j]):
-                                index_list.append(i)
-            df_CM_2=df_CM.drop(index_list,axis=0) 
-            return df_CM_2.to_dict('records'),df_count_CM.to_dict('records'),conservation_list
-    
-    elif ((data_helper.list_to_string(conservation))=='Conservation and National Protections and Int Protections (CITES)'):
-        conservation_list.append('all')
-        return df_CM.to_dict('records'),df_count_CM.to_dict('records'),conservation_list
-    else:
-        return df_CM.to_dict('records'),df_count_CM.to_dict('records'),conservation_list
-
+def handle_question_py(time,conservation,species,country):
+    return df_master.to_dict('records'),df_master.to_dict('records')
 
 
 @callback(

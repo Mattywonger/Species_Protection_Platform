@@ -69,18 +69,17 @@ def numeric_count(data):
 @callback(
     Output('dashboard-graph','children'),
     Input('dashboard_tables','data'),
-    Input('my-toggle','value')
 )
 
 
-def display_graph(data,toggle):
-        pd_processed=pd.DataFrame(data)
-        pd_processed1=data_helper.country_indiv_count(pd_processed)
-        pd_processed2=data_helper.transpose(pd_processed1)
-        pd_processed2['Category']=['Bird','Amphibians','Reptiles','Mammals']
-
-        fig=px.bar(pd_processed2, x="Category", y=[0,1,2,3,4,5], title="Species-Protection")
-        return dcc.Graph(figure=fig,style={'border': '2px solid #424953','box-shadow': '0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset'})
+def display_graph(data):
+        print("entered display_graph")
+        pd_original=pd.DataFrame(data) 
+        print(pd_original)
+        long_df=data_helper.country_indiv_count(pd_original)
+        #print(long_df)
+        fig=px.bar(long_df,x='Species_category',y='Count',color='Category',barmode='stack',text='Count')
+        return dcc.Graph(figure=fig)
 
 
 #Same Logic: Get all the inputs in one big callback function and if any of the control functions is clicked, this function will be triggered and a fresh graph will be generated. However, we don't want reloads
